@@ -20,8 +20,8 @@
 
 % DESCRIPTION:
 % Script generating .msz file connected with the paper:
-% D. Kopala, A. Ostaszewska-Lizewska, P. R?back, M. Malinen, R. Szewczyk
-% "The model of 3D magnetic permeability tensor considering rotation 
+% D. Kopala, A. Ostaszewska-Lizewska, P. Raback, R. Szewczyk
+% "The model of 3D magnetic permeability tensor considering rotation
 % and saturation states in materials with axial anisotropy"
 %
 
