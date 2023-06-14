@@ -169,5 +169,8 @@ dirH = rotateGamma(gamma,mix,miy,miz);
 
 end
 
+% Save plots to .dat file for gamma angles
+  DataSave;
+
 % - Draw B(H) plot
   BHplotDraw;
