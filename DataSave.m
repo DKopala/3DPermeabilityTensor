@@ -21,5 +21,5 @@ for i = 1:plotsNo
   if isfile(currFileName)
     delete(currFileName);
   end
-  dlmwrite(currFileName,plotData,'delimiter','\t');
+  dlmwrite(currFileName,plotData,'delimiter','\t','precision',4);
 end
